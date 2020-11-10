@@ -1,8 +1,8 @@
 {
-  "name": "shape-tracker",
+  "name": "NAME", //rename please!!
   "version": "1.0.0",
   "description": "_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "build": "webpack --mode development",
     "start": "npm run build & webpack-dev-server --open --mode development",
@@ -10,8 +10,8 @@
     "test": "jest --coverage"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Jeff",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.6.4",
     "@babel/plugin-transform-modules-commonjs": "^7.6.0",
