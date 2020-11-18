@@ -28,7 +28,9 @@ _1. Download [this](https://github.com/jeffchiudev/example-repo) repository onto
 
 _2. This page utilizes Node package manager and requires local files to be installed. Once you've cloned the repository and it's accompanying config files, use the following command `npm install` to install the necessary NPM files to display correctly._
 
-_3. Double click index.html to open it in your web browser._
+_3. Type `npm run build` to compile the page into the distribution directory with a new index.html and new bundle.js file.._
+
+_4. Type `npm run start` to begin a live server to view the page._
 
 ### Open via Bash/GitBash:
 
