@@ -1,5 +1,11 @@
 # _{TODOApplication Name}_
 
+<div align="center">
+<img src="https://github.com/jeffchiudev.png" width="200px" height="auto" >
+</div>
+<p align="center">Authored by Jeff Chiu</p>
+<p align="center">Updated on: </p>
+
 #### _{TODOBrief description of application}, {TODODate of current version}_
 
 #### By _**{TODOList of contributors}**_
