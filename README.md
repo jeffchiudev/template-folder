@@ -4,7 +4,7 @@
 <img src="https://github.com/jeffchiudev.png" width="200px" height="auto" >
 </div>
 <p align="center">Authored by Jeff Chiu</p>
-<p align="center">Updated on: </p>
+<p align="center">Updated on: TODO </p>
 
 #### _{TODOBrief description of application}, {TODODate of current version}_
 
@@ -53,6 +53,7 @@ _3. In the directory where you've cloned the repository, open in Visual Studio C
 <p>
 
 | Description | Input | Ouput |
+| :---------- | :---- | :---- |
 
 </p>
 </details>
