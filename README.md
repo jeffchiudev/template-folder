@@ -1,7 +1,7 @@
 # _{TODOApplication Name}_
 
 <div align="center">
-<img src="https://github.com/jeffchiudev.png" width="200px" height="auto" >
+<img style="border-radius: 25px;" src="https://github.com/jeffchiudev.png" width="200px" height="auto" >
 </div>
 <p align="center">Authored by Jeff Chiu</p>
 <p align="center">Updated on: TODO </p>
@@ -71,5 +71,6 @@ _If there are any issues, I can be contacted at jeffchiudev@gmail.com_
 
 _{TODOTell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
 
-_This extension is licensed under the MIT license._
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Copyright (c) 2020 **_Jeff W. Chiu_** 
